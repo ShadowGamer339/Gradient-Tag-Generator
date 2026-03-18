@@ -43,10 +43,10 @@ Make sure you have **Python 3.x** installed.
 python GRADIENT_TAG_GENERATOR.py
 ```
 2.Follow the prompts to select:
-• Number of steps (8–32)
-• Mode: Smooth Gradient or Shiny Wave Gradient
-• Base or multiple colors
-• Key name for the gradient
+- Number of steps (8–32)
+- Mode: Smooth Gradient or Shiny Wave Gradient
+- Base or multiple colors
+- Key name for the gradient
 3.Preview the generated colors in your terminal
 ## License
 This project is licensed under the MIT License. 
